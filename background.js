@@ -20,6 +20,9 @@ function addGenerateButton(){
       newButton.classList.add('procedural');
       newButton.addEventListener('click', generateComment);
       buttonContainer.appendChild(newButton);
+    }else{
+      // Fix for button not working on comment replies
+      button.addEventListener('click', generateComment);
     }
   }
 }
