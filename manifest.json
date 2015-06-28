@@ -1,12 +1,13 @@
 {
   "manifest_version": 2,
 
-  "name": "NMS Comment",
+  "name": "No Man's Sky Comment Generator",
+  "short_name": "NMS Comment",
   "description": "Every comment procedural",
   "version": "1.0",
   "icons": {
      "48": "icon-48.png",
-    "128": "icon-128.png" 
+    "128": "icon-128.png"
   },
   "content_scripts": [{
     "js": ["background.js"],

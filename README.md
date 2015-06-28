@@ -2,6 +2,8 @@
 
 Every comment procedural
 
+Pull requests welcome. Collaboration is what makes open source saucy.
+
 ##Instructions
 
 1. Install extension (link coming soon)
