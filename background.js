@@ -4,7 +4,13 @@ var data_words = [
   'release date',
   'tweet',
   'post',
-  'article'
+  'article',
+  'wallpaper',
+  "fan art",
+  '"Every x procedural"',
+  'atom',
+  'planet name convention',
+  'theory'
 ];
 
 function addGenerateButton(){
@@ -13,7 +19,6 @@ function addGenerateButton(){
     var button = commentAreaArray[i].querySelector('.procedural');
     if (!button){
       var buttonContainer = commentAreaArray[i].querySelector('.usertext-buttons');
-      var commentArea = commentAreaArray[i].querySelector('textarea');
       var newButton = document.createElement('button');
       newButton.type = 'button';
       newButton.innerHTML = 'generate comment';
