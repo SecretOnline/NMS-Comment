@@ -14,8 +14,8 @@
     "matches": [
       "https://*.reddit.com/r/NoMansSkyTheGame/*",
       "http://*.reddit.com/r/NoMansSkyTheGame/*",
-      "https://en.reddit.com/r/NoMansSkyCirclejerk/*",
-      "http://en.reddit.com/r/NoMansSkyCirclejerk/*"
+      "https://*.reddit.com/r/NoMansSkyCirclejerk/*",
+      "http://*.reddit.com/r/NoMansSkyCirclejerk/*"
     ]
   }]
 }
