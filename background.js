@@ -22,11 +22,20 @@ var data_words = [
   'post',
   'article',
   'wallpaper',
-  "fan art",
+  'fan art',
   '"Every x procedural"',
   'atom',
   'planet name convention',
-  'theory'
+  'theory',
+  'extension',
+  'space whale',
+  'photoshop of Sean\'s face',
+  'interview',
+  'meme',
+  'spoiler',
+  'post flair',
+  'comment generator',
+  'Spotify playlist'
 ];
 
 function addGenerateButton(){
