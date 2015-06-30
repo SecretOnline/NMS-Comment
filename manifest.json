@@ -4,7 +4,7 @@
   "name": "No Man's Sky Comment Generator",
   "short_name": "NMS Comment",
   "description": "Every comment procedural",
-  "version": "1.2",
+  "version": "1.3",
   "icons": {
      "48": "icon-48.png",
     "128": "icon-128.png"
