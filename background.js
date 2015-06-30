@@ -46,7 +46,7 @@ function addGenerateButton(){
       var buttonContainer = commentAreaArray[i].querySelector('.usertext-buttons');
       var newButton = document.createElement('button');
       newButton.type = 'button';
-      newButton.innerHTML = 'generate comment';
+      newButton.innerHTML = 'generate';
       newButton.classList.add('procedural');
       newButton.addEventListener('click', generateComment);
       buttonContainer.appendChild(newButton);
